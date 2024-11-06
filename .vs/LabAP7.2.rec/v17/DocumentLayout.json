@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\source\\repos\\LabAP7.2.rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB48F015-2780-4052-853C-310684DABED4}|LabAP7.2.rec\\LabAP7.2.rec.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP7.2.rec\\LabAP7.2.rec\\LabAP7.2.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB48F015-2780-4052-853C-310684DABED4}|LabAP7.2.rec\\LabAP7.2.rec.vcxproj|solutionrelative:LabAP7.2.rec\\LabAP7.2.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAB4A18-4ABA-4962-A558-33C5F7A77F54}|UnitTest7.2.rec\\UnitTest7.2.rec.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP7.2.rec\\UnitTest7.2.rec\\UnitTest7.2.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBAB4A18-4ABA-4962-A558-33C5F7A77F54}|UnitTest7.2.rec\\UnitTest7.2.rec.vcxproj|solutionrelative:UnitTest7.2.rec\\UnitTest7.2.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest7.2.rec.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP7.2.rec\\UnitTest7.2.rec\\UnitTest7.2.rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest7.2.rec\\UnitTest7.2.rec.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP7.2.rec\\UnitTest7.2.rec\\UnitTest7.2.rec.cpp",
+              "RelativeToolTip": "UnitTest7.2.rec\\UnitTest7.2.rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T22:57:37.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabAP7.2.rec.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP7.2.rec\\LabAP7.2.rec\\LabAP7.2.rec.cpp",
+              "RelativeDocumentMoniker": "LabAP7.2.rec\\LabAP7.2.rec.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP7.2.rec\\LabAP7.2.rec\\LabAP7.2.rec.cpp",
+              "RelativeToolTip": "LabAP7.2.rec\\LabAP7.2.rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T22:56:41.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
